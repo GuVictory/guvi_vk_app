@@ -1,0 +1,12 @@
+.shop__card {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0.5rem 1rem;
+    height: max-content;
+    text-align: start;
+}
+
+.shop__btn {
+    margin-top: 10px;
+}

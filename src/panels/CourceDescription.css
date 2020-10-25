@@ -1,0 +1,22 @@
+.desc_header {
+    margin: 1em;
+    font-weight: 400;
+}
+
+.desc__card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 94px;
+    border-radius: 5px;
+}
+
+.desc__card__icon {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+.desc_point {
+    margin-left: 4em;
+}
